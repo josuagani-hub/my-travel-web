@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1779184772935",
+    "name": "josua",
+    "quantity": 4,
+    "departureDate": "2005-10-23",
+    "destination": "Pulau Bunaken",
+    "price": "1.500.000",
+    "status": "confirmed",
+    "createdAt": "2026-05-19T09:59:32.935Z"
+  }
+]

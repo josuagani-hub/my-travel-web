@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Pulau Bunaken",
+    "location": "Manado",
+    "price": "1.500.000",
+    "rating": 4.9,
+    "image": "/fotobunaken.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nusa Penida",
+    "location": "Bali",
+    "price": "2.200.000",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800"
+  },
+  {
+    "id": 3,
+    "name": "Gunung Bromo",
+    "location": "Jawa Timur",
+    "price": "1.200.000",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?w=800"
+  },
+  {
+    "id": 4,
+    "name": "Raja Ampat",
+    "location": "Papua Barat",
+    "price": "5.500.000",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=800"
+  },
+  {
+    "id": 5,
+    "name": "Candi Borobudur",
+    "location": "Magelang",
+    "price": "750.000",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1584810359583-96fc3448beaa?w=800"
+  },
+  {
+    "id": 6,
+    "name": "Labuan Bajo",
+    "location": "NTT",
+    "price": "4.200.000",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=800"
+  },
+  {
+    "id": 7,
+    "name": "Tanah Lot",
+    "location": "Bali",
+    "price": "900.000",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800"
+  },
+  {
+    "id": 8,
+    "name": "Danau Toba",
+    "location": "Sumatera Utara",
+    "price": "1.800.000",
+    "rating": 4.6,
+    "image": "/danautoba.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wakatobi",
+    "location": "Sulawesi Tenggara",
+    "price": "3.500.000",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544124499-58912cbddaad?w=800"
+  },
+  {
+    "id": 10,
+    "name": "Kawah Ijen",
+    "location": "Banyuwangi",
+    "price": "1.100.000",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1627664819818-e147d6221422?w=800"
+  },
+  {
+    "id": 11,
+    "name": "Pantai Ora",
+    "location": "Maluku",
+    "price": "2.800.000",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+  },
+  {
+    "id": 12,
+    "name": "Derawan",
+    "location": "Kalimantan Timur",
+    "price": "3.200.000",
+    "rating": 4.8,
+    "image": "/fotoderawan.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Tanjung Puting",
+    "location": "Kalimantan Tengah",
+    "price": "2.500.000",
+    "rating": 4.7,
+    "image": "/tanjungputing.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Toraja",
+    "location": "Sulawesi Selatan",
+    "price": "1.900.000",
+    "rating": 4.8,
+    "image": "/toraja.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Gili Trawangan",
+    "location": "Lombok",
+    "price": "1.400.000",
+    "rating": 4.7,
+    "image": "/gilitrawangan.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Belitung",
+    "location": "Bangka Belitung",
+    "price": "1.600.000",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?w=800"
+  },
+  {
+    "id": 17,
+    "name": "Gunung Rinjani",
+    "location": "Lombok",
+    "price": "2.300.000",
+    "rating": 4.9,
+    "image": "/gunungrinjani.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Kepulauan Seribu",
+    "location": "Jakarta",
+    "price": "850.000",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800"
+  },
+  {
+    "id": 19,
+    "name": "Bukit Tinggi",
+    "location": "Sumatera Barat",
+    "price": "1.200.000",
+    "rating": 4.7,
+    "image": "/bukittinggi.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Pulau Weh",
+    "location": "Aceh",
+    "price": "2.100.000",
+    "rating": 4.8,
+    "image": "/pulauweh.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Siladen",
+    "location": "Pulau Siladen",
+    "price": "1.500.000",
+    "rating": 4.5,
+    "image": ""
+  }
+]
