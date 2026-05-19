@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { Star, Menu, X, Phone, Mail, Lock } from 'lucide-react';
 import { AdminLogin, AdminDashboard, AdminBookings, AdminDestinations } from './AdminDashboard';
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
 
 // 1. Komponen Navbar
 const Navbar = ({ isAdmin }) => {
